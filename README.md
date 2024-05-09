@@ -14,3 +14,7 @@ That's the pong made with Lua from the course CS50(Computer Science 50), first t
 
 the result:
     ![alt text](image-1.png)
+
+# Update 0.0.3
+    How to instal?
+    Just donwload the pong.zip and execute the pong.exe arquive and have fun! 😎
